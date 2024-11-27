@@ -83,9 +83,9 @@ int main()
         }
         else
         {
-            printf("enter the first num:- ");
+            printf(" the first number:- ");
             scanf("%d", &num1);
-            printf("enter the second num:- ");
+            printf(" the second number:- ");
             scanf("%d", &num2);
         }
 
